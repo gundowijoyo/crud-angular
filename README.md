@@ -4,4 +4,6 @@
 
 -Add Data EDIT DATA HAPUS DATA
 
+<h3>Penyimpanan Data</h3>
 
+-Localstorage
